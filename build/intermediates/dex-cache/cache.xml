@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="F:\android\TryArrayAdapter\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_15a8c8f2153eef070ccf386388ea0d752671603d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yash Patil\.android\build-cache\e6b48419a832943c8e74479096c45491ce4dee63\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="F:\android\TryArrayAdapter\app\build\intermediates\pre-dexed\debug\classes_9a50470e75eeea697c7b4fa4ceb25d1ef5c65aaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yash Patil\.android\build-cache\3be66ca027f73016b14541b73842c5fc011a1ae3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="F:\android\TryArrayAdapter\app\build\intermediates\pre-dexed\debug\classes_65f663c6a4d6a1087e8cb4bb646c9b5e8f00cb12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yash Patil\.android\build-cache\a07078f5b7da2e1b16c2ce907300eb832c48431d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="F:\android\TryArrayAdapter\app\build\intermediates\pre-dexed\debug\classes_b5bc5bc3ba0caaa572c4cd4c76003b17815bb435.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yash Patil\.android\build-cache\bee14481b33787859fdb1b42a953de2c96926bf8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="F:\android\TryArrayAdapter\app\build\intermediates\pre-dexed\debug\classes_9d8a10305562637be311100035c06a17a825b45f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yash Patil\.android\build-cache\a59414a87f68ab45c8c8c81782c9718bad2caac9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="F:\android\TryArrayAdapter\app\build\intermediates\pre-dexed\debug\classes_d74ee26715b2ae74f767a6377d61f658aeb48bb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yash Patil\.android\build-cache\b313122855aa00e94d627abac07b6f0a27d36336\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="F:\android\TryArrayAdapter\app\build\intermediates\pre-dexed\debug\classes_6eec55c614a076842943026fcf5f1d9347c86dd2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android\TryArrayAdapter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88e10eb43e2236468de5dd03266c544fae6f8085">
+        <dex dex="F:\android\TryArrayAdapter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_097350132523f051e68aff39f7433d69bf4c6bed\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yash Patil\.android\build-cache\370ad7ac0eea60871b6f044e2ef48082a7a9eb67\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="F:\android\TryArrayAdapter\app\build\intermediates\pre-dexed\debug\classes_b21a49634cf7666cba287880c22897a18730330b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yash Patil\.android\build-cache\4b2e0c9c0d2de78805d1bb973aeb3eb5e8ed86c7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="F:\android\TryArrayAdapter\app\build\intermediates\pre-dexed\debug\classes_e02195623f117f5b76342c1308833ad838cd9b1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yash Patil\.android\build-cache\21c06c649573d3350f062d88e177dade2ea13b73\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="F:\android\TryArrayAdapter\app\build\intermediates\pre-dexed\debug\classes_a6b2c9502bfd5cae7b6cb1c0a96fa4f174478466.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android\TryArrayAdapter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="F:\android\TryArrayAdapter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0f908a81815e65b0da1c6c0b605ed494ad5ba4a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yash Patil\.android\build-cache\441460ce3008f756b59a386e68112548b9a4e8fc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\android\TryArrayAdapter\app\build\intermediates\pre-dexed\debug\classes_0652202eff7c99a193bbffdb0f8145dc24165d7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\android\TryArrayAdapter\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_ef2ede306e66269104e34ce36caf9ac542daa7de.jar" />
+    </item>
+
+</items>
